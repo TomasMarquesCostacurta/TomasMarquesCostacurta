@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TomasMarquesCostacurta/TomasMarquesCostacurta/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
