@@ -18,7 +18,7 @@
 
 ###
 
-<img align="left" height="400" src="https://i.ibb.co/Q8Q48Vt/chapter-127-has-so-many-good-panels-v0-4sdn2d0bmjxb1.png"  />
+<img align="left" height="700" src="https://i.ibb.co/Q8Q48Vt/chapter-127-has-so-many-good-panels-v0-4sdn2d0bmjxb1.png"  />
 
 ###
 
